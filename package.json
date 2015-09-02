@@ -1,0 +1,59 @@
+{
+  "name": "norman-business-catalog-manager",
+  "version": "0.1.0",
+  "description": "BusinessCatalogManager Module",
+  "repository": {
+    "type:": "git",
+    "url": "https://github.com/sapbuild/BusinessCatalogManager.git"
+  },
+  "licenses": [
+    {
+      "type": "Apache License, Version 2.0",
+      "url": "https://github.com/SAP/Build/blob/master/LICENSE.txt"
+    }
+  ],
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "scripts": {},
+  "dependencies": {},
+  "devDependencies": {
+    "angular-mocks": "^1.3.3",
+    "browserify-istanbul": "^0.1.3",
+    "grunt": "^0.4.5",
+    "grunt-browserify": "^3.2.0",
+    "grunt-contrib-clean": "^0.6.0",
+    "grunt-contrib-copy": "^0.7.0",
+    "grunt-env": "0.4.2",
+    "grunt-publish": "0.0.5",
+    "grunt-eslint": "^13.0.0",
+    "grunt-jsdoc": "^0.5.7",
+    "grunt-karma": "^0.9.0",
+    "grunt-mocha-istanbul": "^2.3.0",
+    "grunt-string-replace": "^1.0.0",
+    "htmlparser": "1.7.7",
+    "istanbul": "^0.3.5",
+    "mocha-jenkins-reporter": "^0.1.4",
+    "jit-grunt": "^0.9.0",
+    "karma": "^0.12.25",
+    "karma-chai-plugins": "^0.3.0",
+    "karma-coverage": "^0.2.7",
+    "karma-junit-reporter": "^0.2.2",
+    "karma-mocha": "^0.1.9",
+    "karma-ng-html2js-preprocessor": "^0.1.2",
+    "karma-phantomjs-launcher": "^0.1.4",
+    "karma-script-launcher": "^0.1.0",
+    "karma-sinon-chai": "^0.2.0",
+    "norman-client-tp": "*",
+    "norman-common-client": "*",
+    "norman-server-tp": "*",
+    "norman-common-server": "*",
+    "norman-auth-server": "*",
+    "norman-audit-server": "*",
+    "norman-testing-tp": "*",
+    "norman-testing-server": "*",
+    "request": "2.51.0",
+    "time-grunt": "^1.0.0"
+  },
+  "private": true
+}
