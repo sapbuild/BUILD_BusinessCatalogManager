@@ -2,8 +2,6 @@
 var fs = require('fs');
 var path = require('path');
 
-require('mocha-jenkins-reporter');
-
 var projects = [
     'client',
     'server',
