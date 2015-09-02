@@ -38,9 +38,6 @@ module.exports = function (grunt) {
         //Access information from package.json
         pkg: grunt.file.readJSON('package.json'),
 
-        // publish in the npm registry
-        publish: require('./grunt-conf/publish.js'),
-
         // Make sure code styles are up to par and there are no obvious mistakes
         eslint: require('./grunt-conf/eslint.js'),
 
@@ -55,9 +52,6 @@ module.exports = function (grunt) {
 
         //jsdoc generation
         jsdoc: require('./grunt-conf/jsdoc.js'),
-
-        // Sonar coverage
-        sonarRunner: require('./grunt-conf/sonar-runner.js'),
 
         'string-replace': require('./grunt-conf/string-replace.js'),
 
