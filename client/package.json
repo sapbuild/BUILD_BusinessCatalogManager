@@ -4,18 +4,15 @@
   "description": "Business Catalog Manager Client",
   "repository": {
     "type": "git",
-    "url": "https://github.wdf.sap.corp/Norman/BusinessCatalogManager.git"
+    "url": "https://github.com/sapbuild/BusinessCatalogManager.git"
   },
   "licenses": [
     {
       "type": "Apache License, Version 2.0",
-      "url": "https://github.wdf.sap.corp/Norman/Norman/blob/master/LICENSE.txt"
+      "url": "https://github.com/SAP/Build/blob/master/LICENSE.txt"
     }
   ],
   "peerDependencies": {
     "norman-client-tp": "*"
-  },
-  "publishConfig": {
-    "registry": "http://build-npm.mo.sap.corp:8080"
   }
 }
