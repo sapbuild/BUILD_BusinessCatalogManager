@@ -1,0 +1,18 @@
+#Ignore npm modules
+node_modules/
+npm-debug.log
+server/node_modules/
+bower_components/
+*.log
+
+build/
+dist/
+doc/
+
+# Ignore Intellij project and settings
+.idea/
+*.iml
+*.ipr
+
+dev
+reports
