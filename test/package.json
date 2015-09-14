@@ -13,16 +13,6 @@
     }
   ],
   "readmeFilename": "README.md",
-  "peerDependencies": {
-    "norman-auth-server": "*",
-    "norman-client-tp": "*",
-    "norman-common-server": "*",
-    "norman-common-client": "*",
-    "norman-server-tp": "*",
-    "norman-testing-server": "*",
-    "norman-testing-tp": "*",
-    "norman-audit-server": "*"
-  },
   "dependencies": {
     "angular-mocks": "^1.3.3"
   }

@@ -13,10 +13,6 @@
     }
   ],
   "readmeFilename": "README.md",
-  "peerDependencies": {
-    "norman-common-server": "*",
-    "norman-server-tp": "*"
-  },
   "dependencies": {
     "htmlparser": "1.7.7",
     "request": "2.51.0"
