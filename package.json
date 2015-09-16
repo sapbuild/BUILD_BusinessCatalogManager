@@ -44,6 +44,7 @@
     "karma-script-launcher": "^0.1.0",
     "karma-sinon-chai": "^0.2.0",
     "norman-client-tp": "0.3.1",
+    "norman-server-tp": "0.3.0",
     "norman-common-client": "0.3.0",
     "norman-server-tp": "0.3.0",
     "norman-common-server": "0.3.0",
