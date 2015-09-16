@@ -51,7 +51,7 @@
     "norman-audit-server": "0.3.0",
     "norman-testing-tp": "0.3.0",
     "norman-testing-server": "0.3.0",
-    "node-app-server": "0.3.0",
+    "node-sap-app-server": "0.3.0",
     "request": "2.51.0",
     "time-grunt": "^1.0.0"
   },
