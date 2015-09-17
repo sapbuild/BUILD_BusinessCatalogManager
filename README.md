@@ -1,8 +1,12 @@
 BusinessCatalogManager
 ===============
 [![Build Status](https://build-jenkins.wdf.sap.corp/jenkins/job/BusinessCatalogManager-master/badge/icon)](https://build-jenkins.wdf.sap.corp/jenkins/job/BusinessCatalogManager-master/)
-###Make a Contribution
-Click here to view our [Contribution](https://github.wdf.sap.corp/Norman/Norman/blob/master/Contributing.md) document.
+
+# BUILD on GitHub
+
+[Click here](https://github.com/SAP/BUILD) to visit the central BUILD project on GitHub, where you can find out more!
+
+[Click here](https://github.com/SAP/BUILD/blob/master/Contributing.md) to view the BUILD Contribution Guidelines. 
 
 
 ##Installation
