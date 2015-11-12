@@ -1,6 +1,11 @@
+[![Build](https://img.shields.io/travis/sapbuild/BusinessCatalogManager.svg?style=flat-square)](http://travis-ci.org/sapbuild/BusinessCatalogManager)
+[![Version](https://img.shields.io/npm/v/norman-business-catalog-manager-client.svg?style=flat-square)](https://npmjs.org/package/norman-business-catalog-manager-client)
+[![Dependency Status](https://david-dm.org/sapbuild/BusinessCatalogManager.svg)](https://david-dm.org/sapbuild/BusinessCatalogManager)
+[![devDependency Status](https://david-dm.org/sapbuild/BusinessCatalogManager/dev-status.svg)](https://david-dm.org/sapbuild/BusinessCatalogManager#info=devDependencies)
+[![Coverage](https://img.shields.io/coveralls/sapbuild/BusinessCatalogManager/master.svg?style=flat-square)](https://coveralls.io/r/sapbuild/BusinessCatalogManager?branch=master)
+
 BusinessCatalogManager
 ===============
-[![Build Status](https://build-jenkins.wdf.sap.corp/jenkins/job/BusinessCatalogManager-master/badge/icon)](https://build-jenkins.wdf.sap.corp/jenkins/job/BusinessCatalogManager-master/)
 
 # BUILD on GitHub
 
